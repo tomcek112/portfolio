@@ -1,0 +1,17 @@
+{
+  "name": "Thomas-Lutzeyer-Portfolio",
+  "description": "Personal Website for an individual named Thomas Lutzeyer.",
+  "private": true,
+  "author": "Thomas Lutzeyer",
+  "version": "0.0.1",
+  "repository": "https://www.github.com/tomcek112/portfolio",
+  "scripts": {
+    "start": "brunch watch --server",
+    "build": "brunch build --production"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "babel-brunch": "^6.1.1",
+    "babel-preset-latest": "^6.24.1"
+  }
+}
